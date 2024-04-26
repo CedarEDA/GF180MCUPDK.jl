@@ -1,10 +1,10 @@
 using Documenter
-# using GF180MCUPDK
+using GF180MCUPDK
 
 makedocs(
     sitename = "GF180MCUPDK",
     format = Documenter.HTML(),
-    # modules = [GF180MCUPDK],
+    modules = [GF180MCUPDK],
 )
 
 deploydocs(

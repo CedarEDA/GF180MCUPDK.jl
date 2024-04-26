@@ -1,4 +1,4 @@
-# using GF180MCUPDK
+using GF180MCUPDK
 using Test
 
 @testset "GF180MCUPDK.jl" begin
