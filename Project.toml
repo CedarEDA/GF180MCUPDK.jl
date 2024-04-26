@@ -2,6 +2,9 @@ name = "GF180MCUPDK"
 uuid = "4c528db8-839e-4d0b-8de9-a61e03c09612"
 version = "0.4.0"
 
+[workspace]
+projects = ["docs", "test"]
+
 [deps]
 BSIM4 = "fa7570ea-a14f-11ec-018e-d96f3217f940"
 CedarSim = "9075980a-f0c7-46d2-945a-cc5bead5ad4a"
