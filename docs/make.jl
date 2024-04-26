@@ -8,5 +8,5 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/JuliaComputing/GF180MCUPDK.jl.git",
+    repo = "github.com/CedarEDA/GF180MCUPDK.jl.git",
 )

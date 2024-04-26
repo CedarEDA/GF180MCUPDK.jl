@@ -5,7 +5,7 @@ Julia package manager which allows for simple installation, compatible version r
 
 ## PDK Contents
 This GF180MCUPDK originally came from the Google/Global Foundries collaboration [here](https://github.com/google/gf180mcu-pdk).
-If there are issues then please [open an Issue](https://github.com/JuliaComputing/GF180MCUPDK.jl/issues).
+If there are issues then please [open an Issue](https://github.com/CedarEDA/GF180MCUPDK.jl/issues).
 
 ## Usage
 ### 1. Netlist Usage
